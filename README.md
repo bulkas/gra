@@ -1,0 +1,2 @@
+# gra
+gra na konkurs
